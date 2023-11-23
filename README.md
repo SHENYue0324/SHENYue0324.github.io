@@ -10,10 +10,6 @@ Welcome to fork for free 🥰
 - **Feb. 2023:** If you have any problem, please feel free to contact me - [Online Talk 15mins](https://calendly.com/lancecai/meet-with-lance)
 - **Dec. 2022:** My personal website have been implemented and deployed in [caihanlin.com](https://caihanlin.com)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
-
 ## Statement
 
 © 2023 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
