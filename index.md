@@ -21,7 +21,7 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
 ## Education Experience
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.**
 
 - **2022.8 - Current:** The University of Hong Kong (Master of Accounting)
 - **2018.8 - 2022.6:** University of Macau (BSc in Accounting)
