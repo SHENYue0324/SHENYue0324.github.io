@@ -22,16 +22,6 @@ Other Education Experience
 
 ---
 
-## Research Interests
-
-- ESG and CSR
-- Greenwashing
-- Tax avoidance
-
-<br>
-
----
-
 ## Research Assistant Experience
 
 - **2023.6 - Current** @ University of Macau
