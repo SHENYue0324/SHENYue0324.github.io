@@ -9,18 +9,25 @@ title: Hobbies and Contact
 ## Hiking
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/hiking.maanshan.JPG">
 </div>
 <br>Since discovering the joy of hiking a year ago, I've found immense pleasure in traversing diverse landscapes and embracing the tranquility of nature. Each hike offers a unique blend of challenge and serenity, providing a path to self-discovery.
+
+## Mobile Phone Photography
+
+<div class="third">
+<img src="/images/hiking.maanshan.JPG">
+</div>
+<br>
+
+# Contact
 
 ## My WeChat
 
 Feel free to contact me.
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/wechat.yueshen.JPG">
 </div>
 <br>
 
