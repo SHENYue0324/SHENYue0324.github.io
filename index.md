@@ -41,7 +41,7 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 - Green washing
 - Tax avoidance
 
-<be>
+<br>
 
 ---
 
