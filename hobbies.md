@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hobbies/index.html
-title: Hobbies and Contact
+title: Hobbies
 ---
 
 # Hobbies
@@ -20,13 +20,3 @@ title: Hobbies and Contact
 </div>
 <br>
 
-# Contact
-
-## My WeChat
-
-Feel free to contact me.
-
-<div class="third">
-<img src="/images/wechat.yueshen.jpg">
-</div>
-<br>
