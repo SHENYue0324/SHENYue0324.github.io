@@ -19,4 +19,13 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
 <br>
 
+---
+
+## Research Interests
+
+- ESG and CSR
+- Greenwashing
+- Tax avoidance
+
+<br>
 
