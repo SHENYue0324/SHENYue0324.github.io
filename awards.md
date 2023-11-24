@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 24th Nov 2023 &nbsp;
 
 ## Education Experience
 
@@ -17,10 +17,7 @@ Other Education Experience
 - **2022.7 - 2022.7:** Peking University (Summer School)
 - **2021.7 - 2021.8:** Fudan University (Fudan International Summer Session)
 - **2021.3 - 2021.7:** South China University of Technology (Exchange)
-
 <br>
-
----
 
 ## Research Assistant Experience
 
@@ -29,31 +26,24 @@ Other Education Experience
   
 - **2022.11 - 2023.6** @ The University of Hong Kong
  Supervisor: Prof. Xin WANG (HKU); Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
-  
 <br>
-
----
 
 ## Industry Experience
 
 - **2021.3 - 2021.5** BDO China, Guangdong Branch, Audit Intern
 - **2020.7 - 2020.8** China CITIC Bank, Chongqing Branch, Talent Intern Program
 - **2020.6 - 2020.7** China National Petroleum Corporation, Daqing Branch, Financial Intern
-
 <br>
-
----
 
 ## Scholarships and Honor
 
 - August 2023
-
 <br>
 
----
-
-## Services
-
+## Community Services
 - Sep 2022 - Sep 2023：
+<br>
 
+## Membership
+- Sep 2022 - Sep 2023：
 <br>
