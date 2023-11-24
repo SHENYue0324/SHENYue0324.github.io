@@ -6,13 +6,14 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **SHEN, Yue (Shelly, 沈悦)**.
+Here is **SHEN, Yue (Shelly, 沈悦)**. I am taking my master's degree majoring in **Accounting** at The University of Hong Kong. 
 
-I am taking my master's degree majoring in **Accounting** at The University of Hong Kong. 
 
 During my undergraduate studies at the University of Macao, I was introduced to Ball and Brown's 1968 study in Accounting Theory course, which piqued my interest in accounting research. As a research assistant at UM, I delved into the biodiversity section of CSR reports, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project investigating the potential role of urbanization in carbon emissions in China by employing the spatial Durbin model. 
 
+
 Confronted with the challenges of unstructured data, I pursued my master’s degree in accounting at the University of Hong Kong to obtain training in data analytics, text analysis, and natural language processing in finance. I used Python (1) to perform web scraping and extract investors’ sentiments and (2) to crawl the biodiversity section of the ESG reports of over 500 Hong Kong-listed companies, coding their biodiversity performance.
+
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yueshen@connect.hku.hk*
 
@@ -24,7 +25,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **2022.8 - Current:** The University of Hong Kong (Master of Accounting)
 - **2018.8 - 2022.6:** University of Macau (BSc in Accounting)
-Other Education
+
+  *Other Education*
 - **2022.7 - 2022.7:** Peking University (Summer School)
 - **2021.7 - 2021.8:** Fudan University (Fudan International Summer Session)
 - **2021.3 - 2021.7:** South China University of Technology (Exchange)
@@ -36,6 +38,7 @@ Other Education
 ## Research Interests
 
 - ESG and CSR
+- Green washing
 - Tax avoidance
 
 <br>
