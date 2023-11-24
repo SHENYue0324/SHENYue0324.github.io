@@ -26,7 +26,7 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 - **2022.8 - Current:** The University of Hong Kong (Master of Accounting)
 - **2018.8 - 2022.6:** University of Macau (BSc in Accounting)
 
-  Other Education
+Other Education
 - **2022.7 - 2022.7:** Peking University (Summer School)
 - **2021.7 - 2021.8:** Fudan University (Fudan International Summer Session)
 - **2021.3 - 2021.7:** South China University of Technology (Exchange)
@@ -51,14 +51,21 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
  Supervisor: Prof. Teresa CHU (UM)
  
- Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
+Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
   
 - **2022.11 - 2023.6** @ The University of Hong Kong
 
  Supervisor: Prof. Xin WANG (HKU)
  
- Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
+Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
 
 
   
+<br>
+---
+
+## Hobbies
+
+- Hiking
+
 <br>
