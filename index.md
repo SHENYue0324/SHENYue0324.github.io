@@ -49,15 +49,11 @@ Other Education Experience
 
 - **2023.6 - Current** @ University of Macau
 
- Supervisor: Prof. Teresa CHU (UM)
- 
- Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
+ Supervisor: Prof. Teresa CHU (UM); Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
   
 - **2022.11 - 2023.6** @ The University of Hong Kong
 
- Supervisor: Prof. Xin WANG (HKU)
- 
- Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
+ Supervisor: Prof. Xin WANG (HKU); Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
 
 
   
