@@ -29,3 +29,14 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
 <br>
 
+---
+
+## My WeChat
+
+Feel free to contact me.
+
+<div class="third">
+<img src="/images/wechat.yueshen.jpg">
+</div>
+<br>
+
