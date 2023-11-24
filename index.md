@@ -50,11 +50,13 @@ Other Education Experience
 - **2023.6 - Current** @ University of Macau
 
  Supervisor: Prof. Teresa CHU (UM)
+ 
  Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
   
 - **2022.11 - 2023.6** @ The University of Hong Kong
 
  Supervisor: Prof. Xin WANG (HKU)
+ 
  Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
 
 
@@ -63,8 +65,10 @@ Other Education Experience
 
 ---
 
-## Hobbies
+## Industry Experience
 
-- Hiking
+- **2021.3 - 2021.5** BDO China, Guangdong Branch, Audit Intern
+- **2020.7 - 2020.8** China CITIC Bank, Chongqing Branch, Talent Intern Program
+- **2020.6 - 2020.7** China National Petroleum Corporation, Daqing Branch, Financial Intern
 
 <br>
