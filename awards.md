@@ -6,48 +6,64 @@ title: Awards
 
 Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
-## Scholarships
+## Education Experience
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+**<font color='red'>[Highlight]</font> I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.**
 
-## Competitions
+- **2022.8 - Current:** The University of Hong Kong (Master of Accounting)
+- **2018.8 - 2022.6:** University of Macau (BSc in Accounting)
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+Other Education Experience
+- **2022.7 - 2022.7:** Peking University (Summer School)
+- **2021.7 - 2021.8:** Fudan University (Fudan International Summer Session)
+- **2021.3 - 2021.7:** South China University of Technology (Exchange)
 
-## Honors
+<br>
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+---
+
+## Research Interests
+
+- ESG and CSR
+- Greenwashing
+- Tax avoidance
+
+<br>
+
+---
+
+## Research Assistant Experience
+
+- **2023.6 - Current** @ University of Macau
+ Supervisor: Prof. Teresa CHU (UM); Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
+  
+- **2022.11 - 2023.6** @ The University of Hong Kong
+ Supervisor: Prof. Xin WANG (HKU); Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
+  
+<br>
+
+---
+
+## Industry Experience
+
+- **2021.3 - 2021.5** BDO China, Guangdong Branch, Audit Intern
+- **2020.7 - 2020.8** China CITIC Bank, Chongqing Branch, Talent Intern Program
+- **2020.6 - 2020.7** China National Petroleum Corporation, Daqing Branch, Financial Intern
+
+<br>
+
+---
+
+## Scholarships and Honor
+
+- August 2023
+
+<br>
+
+---
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+- Sep 2022 - Sep 2023：
+
+<br>
