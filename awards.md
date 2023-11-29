@@ -52,14 +52,14 @@ Other Education Experience
 ## Scholarships and Honor
 
 **University of Macau**
--   Award “Second Runner-up,” 2022 "RUI SUAN" Accounting Knowledge Competition  *2022* 
--   Scholarship “China Telecom Scholarship”  *2021* 
--   Scholarship “University of Macau (Hong Kong) Alumni Association Scholarship”  *2020* 
--   Honor “the Dean's Honor compliment,” Faculty of Business Administration  *2018-2022* 
--   Honor “BRONZE AWARD,” Whole Person Development Award Programme 2018/2019  *2019* 
+-   Award “Second Runner-up,” 2022 "RUI SUAN" Accounting Knowledge Competition (2022)
+-   Scholarship “China Telecom Scholarship” (2021)
+-   Scholarship “University of Macau (Hong Kong) Alumni Association Scholarship” (2020)
+-   Honor “the Dean's Honor compliment,” Faculty of Business Administration (2018-2022)
+-   Honor “BRONZE AWARD,” Whole Person Development Award Programme 2018/2019 (2019)
 
 **Tsinghua University**
--   Honor “Best Innovation Perspective,” “City Change Maker” Summer Workshop  *2019* 
+-   Honor “Best Innovation Perspective,” “City Change Maker” Summer Workshop (2019)
 
 <br>
 
