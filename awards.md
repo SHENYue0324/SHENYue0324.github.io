@@ -44,22 +44,22 @@ Other Education Experience
 
 ## Industry Experience
 
-- **2021.3 - 2021.5** BDO China, Guangdong Branch, Audit Intern
-- **2020.7 - 2020.8** China CITIC Bank, Chongqing Branch, Talent Intern Program
-- **2020.6 - 2020.7** China National Petroleum Corporation, Daqing Branch, Financial Intern
+- **2021.3 - 2021.5**  BDO China, Guangdong Branch, Audit Intern
+- **2020.7 - 2020.8**  China CITIC Bank, Chongqing Branch, Talent Intern Program
+- **2020.6 - 2020.7**  China National Petroleum Corporation, Daqing Branch, Financial Intern
 <br>
 
 ## Scholarships and Honor
 
 **University of Macau**
--   *2022* Award “Second Runner-up,” 2022 "RUI SUAN" Accounting Knowledge Competition
--   *2021* Scholarship “China Telecom Scholarship”
--   *2020* Scholarship “University of Macau (Hong Kong) Alumni Association Scholarship”
--   *2018-2022* Honor “the Dean's Honor compliment,” Faculty of Business Administration
--   *2019* Honor “BRONZE AWARD,” Whole Person Development Award Programme 2018/2019
+-   Award “Second Runner-up,” 2022 "RUI SUAN" Accounting Knowledge Competition  *2022* 
+-   Scholarship “China Telecom Scholarship”  *2021* 
+-   Scholarship “University of Macau (Hong Kong) Alumni Association Scholarship”  *2020* 
+-   Honor “the Dean's Honor compliment,” Faculty of Business Administration  *2018-2022* 
+-   Honor “BRONZE AWARD,” Whole Person Development Award Programme 2018/2019  *2019* 
 
 **Tsinghua University**
--   *2019* Honor “Best Innovation Perspective,” “City Change Maker” Summer Workshop
+-   Honor “Best Innovation Perspective,” “City Change Maker” Summer Workshop  *2019* 
 
 <br>
 
