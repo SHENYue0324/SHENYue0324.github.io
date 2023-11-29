@@ -19,11 +19,13 @@ title: Hobbies
 <img src="/images/hk.sea.sunny.jpg">
 </div>
 <br> @ Hong Kong Victoria Harbor
+<br> 
 
 <div class="third">
 <img src="/images/hk.china.cake.jpg">
 </div>
 <br> @ Hong Kong Museum of Art
+<br> 
 
 <div>
 <img src="/images/um.library.jpg">
