@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://shenyue0324.github.io/moon.and.flower.at.um.jpg" class="floatpic" width="360" height="480">
+<img src="https://shenyue0324.github.io/images/yueshen.um.graduate.jpg" class="floatpic" width="360" height="480">
 
 Here is **SHEN, Yue (Shelly, 沈悦)**. I am taking my master's degree majoring in **Accounting** at **The University of Hong Kong**. 
 
