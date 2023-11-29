@@ -22,8 +22,7 @@ Other Education Experience
 ## Research Assistant Experience
 
 - **2023.6 - Current** @ University of Macau
-  
- Supervisor: Prof. Teresa CHU (UM); Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
+- - Supervisor: Prof. Teresa CHU (UM); Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
   
 - **2022.11 - 2023.6** @ The University of Hong Kong
   
