@@ -15,16 +15,18 @@ title: Hobbies
 
 ## Mobile Phone Photography
 
-<div class="third">
-<img src="/images/hk.china.cake.jpg">
+<div>
 <img src="/images/hk.sea.sunny.jpg">
-<img src="/images/hk.central.ferris.wheel.jpg">
 </div>
-<br> @ HK
+<br> @ Hong Kong Victoria Harbor
 
-<div class="second">
-<img src="/images/moon.and.flower.at.um.jpg">
-<img src="/images/um.library.jpg.jpg">
+<div>
+<img src="/images/hk.china.cake.jpg">
 </div>
-<br> @ University of Macau
+<br> @ Hong Kong Museum of Art
+
+<div>
+<img src="/images/um.library.jpg">
+</div>
+<br> @ University of Macau | Wu Yee Sun Library
 
