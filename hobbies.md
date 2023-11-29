@@ -15,12 +15,12 @@ title: Hobbies
 
 ## Mobile Phone Photography
 
-<div>
+<div class="third">
 <img src="/images/hk.sea.sunny.jpg">
 </div>
 <br> @ Hong Kong Victoria Harbor
 
-<div>
+<div class="third">
 <img src="/images/hk.china.cake.jpg">
 </div>
 <br> @ Hong Kong Museum of Art
