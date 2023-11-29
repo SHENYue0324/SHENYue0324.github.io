@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /cv/index.html
+title: CV
 ---
 
 Lastest Update: 24th Nov 2023 &nbsp;
