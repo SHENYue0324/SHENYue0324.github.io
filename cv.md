@@ -49,6 +49,10 @@ Other Education Experience
 - **2020.6 - 2020.7**  China National Petroleum Corporation, Daqing Branch, Financial Intern
 <br>
 
+## Community Services
+- Sep 2022 - Current： HKU Business School Postgraduate Association (HKUBSPA)
+<br>
+
 ## Scholarships and Honor
 
 **University of Macau**
@@ -60,9 +64,4 @@ Other Education Experience
 
 **Tsinghua University**
 -   Honor “Best Innovation Perspective,” “City Change Maker” Summer Workshop (2019)
-
-<br>
-
-## Community Services
-- Sep 2022 - Current： HKU Business School Postgraduate Association (HKUBSPA)
 <br>
