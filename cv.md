@@ -21,10 +21,10 @@ Other Education Experience
 
 ## Research Assistant Experience
 
-- **2023.6 - Current** @ University of Macau<br>Supervisor: Prof. Teresa CHU (UM); <br>Collaborator: Dr. Ruopiao ZHANG (MUST), etc.
-- **2022.11 - 2023.6** @ The University of Hong Kong<br>Supervisor: Prof. Xin WANG (HKU); <br>Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)
-- **2021.6 - 2022.12** @ University of Macau<br>Supervisor: Prof. Carlos NORONHA (UM); <br>Collaborator: Dr. Ruopiao ZHANG (MUST)
-- **2022.5 - 2022.10** @ Peking University<br>Supervisor: Prof. Weiguo ZHONG (PKU)
+- **2023.6 - Current** @ University of Macau<br>Supervisor: Prof. Teresa CHU (UM); <br>Collaborator: Dr. Ruopiao ZHANG (MUST), etc.<br>
+- **2022.11 - 2023.6** @ The University of Hong Kong<br>Supervisor: Prof. Xin WANG (HKU); <br>Collaborator: Dr. Detian YANG (HKU) & Dr. Weizhu HOU (RUC)<br>
+- **2021.6 - 2022.12** @ University of Macau<br>Supervisor: Prof. Carlos NORONHA (UM); <br>Collaborator: Dr. Ruopiao ZHANG (MUST)<br>
+- **2022.5 - 2022.10** @ Peking University<br>Supervisor: Prof. Weiguo ZHONG (PKU)<br>
 - **2021.6 - 2021.7** @ University of Macau<br>Supervisor: Prof. Morris, Ming LIU (UM)
 <br>
 
@@ -36,7 +36,7 @@ Other Education Experience
 <br>
 
 ## Community Services
-- Sep 2022 - Current： HKU Business School Postgraduate Association (HKUBSPA)
+- **Sep 2022 - Current**HKU Business School Postgraduate Association (HKUBSPA)
 <br>
 
 ## Scholarships and Honor
