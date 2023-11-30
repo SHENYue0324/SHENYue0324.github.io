@@ -31,6 +31,7 @@ Latest Update: 24th Nov 2023
   - Extracted the sentiment index through **Python packages** and **machine learning**. *Github Blog #3 [Some Technical Details About Web Scraping](https://buehlmaier.github.io/MFIN7036-student-blog-2023-02/some-technical-details-about-web-scraping-by-group-nlp-intelligence.html)*
   - Used linear regression and logistic regression to explore the correlation between sentiment in news and stock return and investigated the effect of DiDi’s delisting on the market from the perspective of U.S.-listed China Concept Stocks. *Github Blog #4 [Data processing and Linear Regression in Python](https://buehlmaier.github.io/MFIN7036-student-blog-2023-02/data-processing-and-linear-regression-in-python-by-group-nlp-intelligence.html)*
 <br>
+
 - **Audit Opinion, Accounting Quality, and Debt Financing Cost**<br>Coursework of “Econometrics” at SCUT
   - Collected available data from the **CSMAR** database, used **Python** to process data, utilized **STATA** to run the regression, and applied an intermediary effect model to examine the relationship.
   - Used the **Basu measure of accounting conservatism** and the **modified Jones model** to measure accounting information quality.
