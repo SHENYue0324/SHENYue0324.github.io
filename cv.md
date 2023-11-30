@@ -4,7 +4,7 @@ permalink: /cv/index.html
 title: CV
 ---
 
-Lastest Update: 24th Nov 2023 &nbsp;
+Latest Update: 24th Nov 2023
 
 ## Education Experience
 
