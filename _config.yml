@@ -38,10 +38,10 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
   - title: CV
     url: /cv/
+  - title: Publications
+    url: /publications/
   # - title: Teams
     # url: /teams/
   - title: Hobbies
