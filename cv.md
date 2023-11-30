@@ -36,7 +36,7 @@ Other Education Experience
 <br>
 
 ## Community Services
-- **Sep 2022 - Current**HKU Business School Postgraduate Association (HKUBSPA)
+- **Sep 2022 - Current** HKU Business School Postgraduate Association (HKUBSPA)
 <br>
 
 ## Scholarships and Honor
