@@ -11,10 +11,10 @@ Here is **Shen Shelly Yue (沈悦)**. I am taking my master's degree majoring in
 
 During my undergraduate studies at the **University of Macau**, I was introduced to Ball and Brown's 1968 study in Accounting Theory course, which piqued my interest in accounting research. 
 
-As a research assistant at UM, I delved into the <font color='SlateBlue'>biodiversity section of CSR</font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='SlateBlue'><b>investigating the potential role of urbanization in carbon emissions in China</b></font> by employing the Spatial Durbin model. 
+As a research assistant at UM, I delved into the <font color='BlueViolet'><b>biodiversity section of CSR</b></font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='BlueViolet'><b>investigating the potential role of urbanization in carbon emissions in China</b></font> by employing the Spatial Durbin model. 
 
 
-I pursued my master’s degree in accounting at the University of Hong Kong to obtain training in <font color='BlueViolet'><b>data analytics, text analysis, and natural language processing in finance</b></font>. I used Python (1) to <font color='Indigo'>perform web scraping and extract investors’ sentiments</font> and (2) to crawl the biodiversity section of the ESG reports of over 500 Hong Kong-listed companies, coding their biodiversity performance.
+I pursued my master’s degree in accounting at the University of Hong Kong to obtain training in <font color='BlueViolet'><b>data analytics, text analysis, and natural language processing in finance</b></font>. I used Python (1) to perform web scraping and extract investors’ sentiments and (2) to crawl the biodiversity section of the ESG reports of over 500 Hong Kong-listed companies, coding their biodiversity performance.
 
 
 I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - *yueshen@connect.hku.hk*
@@ -32,10 +32,10 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
 ---
 
-## Skills
+## Data Skills
 
 - STATA
-  - I used STATA to replicate the 'Bank opacity' variable (Yue et al., 2022), during which I cleaned the data and applied a fixed effect for the regression.
+  - I used STATA to replicate the 'Bank opacity' variable (Yue et al., 2022), during which I cleaned the data and applied fixed effect.
 - R
   - Basic Regression, CART model, Random Forest model, etc.
 - Python
