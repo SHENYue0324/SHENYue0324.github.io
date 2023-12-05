@@ -37,7 +37,7 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 - STATA
   - I used STATA to replicate the 'Bank opacity' variable (Yue et al., 2022), during which I cleaned the data and applied a fixed effect for the regression.
 - R
-  - regression, CART model, random forest model, etc.
+  - Basic Regression, CART model, Random Forest model, etc.
 - Python
   - I used Python to perform web scraping (website: Reddit) and extract social media's sentiment index.
   - To complete the coding for biodiversity disclosure, I am currently debugging my code to give a rating after scraping the biodiversity section from ESG reports.
