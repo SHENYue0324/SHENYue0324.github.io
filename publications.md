@@ -16,7 +16,7 @@ Latest Update: 24th Nov 2023
 
 ## Working Manuscript
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>*Supervisor: Prof. Carlos NORONHA (UM) and Dr. Ruopiao ZHANG (MUST)*
+- Biodiversity Performance and Operation Risk: Evidence from Real Estate Industry in China<br>*Supervisor: Prof. Carlos NORONHA (UM) and Dr. Ruopiao ZHANG (MUST)*
 - Coming soon... 🚀
 
   <br>
