@@ -14,7 +14,7 @@ During my undergraduate studies at the <font color='DarkViolet'>University of Ma
 As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiversity section of CSR</font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='DarkViolet'>investigating the potential role of urbanization in carbon emissions in China</font> by employing the Spatial Durbin model. 
 
 
-I pursued my master’s degree in accounting at the University of Hong Kong to obtain training in <font color='DarkViolet'><data analytics, text analysis, and natural language processing in finance</font>. I used Python (1) to perform web scraping and extract investors’ sentiments and (2) to crawl the biodiversity section of the ESG reports of over 500 Hong Kong-listed companies, coding their biodiversity performance.
+I pursued my master’s degree in accounting at the University of Hong Kong to obtain training in <font color='DarkViolet'>data analytics, text analysis, and NLP</font>. I used Python (1) to perform web scraping and extract investors’ sentiments and (2) to crawl the biodiversity section of the ESG reports of over 500 Hong Kong-listed companies, coding their biodiversity performance.
 
 
 I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - *yueshen@connect.hku.hk*
