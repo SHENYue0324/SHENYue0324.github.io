@@ -8,7 +8,7 @@ Latest Update: 24th Nov 2023
 
 ## Education Experience
 
-**<font color='DarkViolet'>I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.</font>**
+<font color='DarkViolet'>I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.</font>
 
 - **2022.8 - Current:** The University of Hong Kong (Master of Accounting)
 - **2018.8 - 2022.6:** University of Macau (BSc in Accounting)
