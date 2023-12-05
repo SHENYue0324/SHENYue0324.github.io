@@ -35,11 +35,11 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 ## Data Skills
 
 - STATA
-  - I used STATA to replicate the 'Bank opacity' variable (Yue et al., 2022), during which I cleaned the data and applied fixed effect.
+  - I used STATA to <font color='DarkViolet'>replicate the 'Bank opacity' variable (Yue et al., 2022)</font>, during which I cleaned the data and applied <font color='DarkViolet'>fixed effect model</font>.
 - R
   - Basic Regression, CART model, Random Forest model, etc.
 - Python
-  - I used Python to perform web scraping (website: Reddit) and extract social media's sentiment index.
+  - I used Python to perform <font color='DarkViolet'>web scraping</font> (website: Reddit) and extract social media's <font color='DarkViolet'>sentiment index</font>.
   - To complete the coding for biodiversity disclosure, I am currently debugging my code to give a rating after scraping the biodiversity section from ESG reports.
 <br>
 
