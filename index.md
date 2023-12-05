@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://shenyue0324.github.io/images/yueshen.um.graduate.jpg" class="floatpic" width="360" height="480">
 
-Here is **Shen Shelly Yue (沈悦)**. I am taking my master's degree majoring in <font color='DarkViolet'>Accounting</font> at <font color='DarkViolet'>The University of Hong Kong</font>. 
+Here is **<font color='DarkViolet'>Shen Shelly Yue (沈悦)</font>**. I am taking my master's degree majoring in <font color='DarkViolet'>Accounting</font> at <font color='DarkViolet'>The University of Hong Kong</font>. 
 
 
 During my undergraduate studies at the <font color='DarkViolet'>University of Macau</font>, I was introduced to Ball and Brown's 1968 study in Accounting Theory course, which piqued my interest in accounting research. 
