@@ -49,7 +49,7 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
 Feel free to contact me.
 
-<div class="third">
+<div class="second">
 <img src="/images/wechat.yueshen.jpg">
 </div>
 <br>
