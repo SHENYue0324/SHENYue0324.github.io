@@ -6,12 +6,12 @@ layout: page
 
 <img src="https://shenyue0324.github.io/images/yueshen.um.graduate.jpg" class="floatpic" width="360" height="480">
 
-Here is **Shen Shelly Yue (沈悦)**. I am taking my master's degree majoring in **Accounting** at **The University of Hong Kong**. 
+Here is **Shen Shelly Yue (沈悦)**. I am taking my master's degree majoring in <font color='DarkViolet'>Accounting</font> at <font color='DarkViolet'>The University of Hong Kong</font>. 
 
 
-During my undergraduate studies at the **University of Macau**, I was introduced to Ball and Brown's 1968 study in Accounting Theory course, which piqued my interest in accounting research. 
+During my undergraduate studies at the <font color='DarkViolet'>University of Macau</font>, I was introduced to Ball and Brown's 1968 study in Accounting Theory course, which piqued my interest in accounting research. 
 
-As a research assistant at UM, I delved into the <font color='DarkViolet'><b>biodiversity section of CSR</b></font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='DarkViolet'><b>investigating the potential role of urbanization in carbon emissions in China</b></font> by employing the Spatial Durbin model. 
+As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiversity section of CSR</font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='DarkViolet'>investigating the potential role of urbanization in carbon emissions in China</font> by employing the Spatial Durbin model. 
 
 
 I pursued my master’s degree in accounting at the University of Hong Kong to obtain training in <font color='DarkViolet'><b>data analytics, text analysis, and natural language processing in finance</b></font>. I used Python (1) to perform web scraping and extract investors’ sentiments and (2) to crawl the biodiversity section of the ESG reports of over 500 Hong Kong-listed companies, coding their biodiversity performance.
