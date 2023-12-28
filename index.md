@@ -18,7 +18,7 @@ During my undergraduate studies at the <font color='DarkViolet'>University of Ma
 
 As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiversity section of CSR</font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='DarkViolet'>investigating the potential role of urbanization in carbon emissions in China</font> by employing the Spatial Durbin model. 
 
-My research interests mainly focus on <font color='DarkViolet'>CSR and ESG</font>. Previously, as a research assistant, I skimmed over 1,000 ESG reports from Hong Kong-listed companies and noticed that many lacked substantive content. This led me to ponder whether our ESG disclosures genuinely aid in sustainable development for our society, humanity, and the planet. Therefore, I developed a strong interest in researching CSR and ESG. Specifically, I intend to research on:
+My research interests mainly focus on <font color='DarkViolet'>CSR and ESG</font>. Previously, as a research assistant, I skimmed over 1,000 ESG reports from Hong Kong-listed companies and noticed that many lacked substantive content. This led me to ponder <font color='DarkViolet'>whether our ESG disclosures genuinely aid in sustainable development for our society, humanity, and the planet</font>. Therefore, I developed a strong interest in researching CSR and ESG. Specifically, I intend to research on:
 
 - Analyzing <font color='DarkViolet'>greenwashing issues</font>, including the factors influencing greenwashing and the ability of investors to recognize greenwashing.
 - Studying the <font color='DarkViolet'>market reaction to ESG disclosures</font>
