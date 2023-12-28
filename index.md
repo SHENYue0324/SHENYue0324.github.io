@@ -21,8 +21,8 @@ As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiv
 My research interests mainly focus on <font color='DarkViolet'>CSR and ESG</font>. Previously, as a research assistant, I skimmed over 1,000 ESG reports from Hong Kong-listed companies and noticed that many lacked substantive content. This led me to ponder whether our ESG disclosures genuinely aid in sustainable development for our society, humanity, and the planet. Therefore, I developed a strong interest in researching CSR and ESG. Specifically, I intend to research on:
 
 - Analyzing <font color='DarkViolet'>greenwashing issues</font>, including the factors influencing greenwashing and the ability of investors to recognize greenwashing.
-- Studying the <font color='DarkViolet'>market effectiveness of ESG disclosures</font>, i.e., whether investors react to these disclosures.
-- Exploring the <font color='DarkViolet'>transformation of ESG's 'pre-financial information' into valuation</font> and analyzing the potential impact of ESG factors on company fundamentals.
+- Studying the <font color='DarkViolet'>market reaction to ESG disclosures</font>
+- Exploring the <font color='DarkViolet'>transformation of ESG's 'pre-financial information' into valuation</font> and analyzing the fundamental effects of ESG disclosure quality.
 
 <br>
 
