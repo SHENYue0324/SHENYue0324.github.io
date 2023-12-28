@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Here is **Shen Shelly Yue (沈悦)**. I am pursuing my master's degree in <font color='DarkViolet'>Accounting</font> at <font color='DarkViolet'>The University of Hong Kong</font>. I am currently seeking <font color='DarkViolet'>PhD opportunities</font> beginning in <font color='DarkViolet'>Fall 2024 or 2025</font>. If you have any information or leads, please don't hesitate to get in touch. Many thanks! :) 
+Here is **Shen Shelly Yue (沈悦)**. I am pursuing my master's degree in <font color='DarkViolet'>Accounting</font> at <font color='DarkViolet'>The University of Hong Kong</font>. **I am currently seeking <font color='DarkViolet'>PhD opportunities</font> beginning in <font color='DarkViolet'>Fall 2024 or 2025</font>.** If you have any information or leads, please don't hesitate to get in touch. Many thanks! :) 
 
 <br>
 
