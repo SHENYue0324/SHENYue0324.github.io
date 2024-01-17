@@ -14,6 +14,12 @@ I am currently seeking <font color='DarkViolet'>PhD opportunities</font> beginni
 
 <br>
 
+During my undergraduate studies at the <font color='DarkViolet'>University of Macau</font>, I was introduced to Ball and Brown's 1968 study in Accounting Theory course, which piqued my interest in accounting research. 
+
+As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiversity section of CSR</font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='DarkViolet'>investigating the potential role of urbanization in carbon emissions in China</font> by employing the Spatial Durbin model. 
+
+<br>
+
 I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - ***yueshen@connect.hku.hk***
 
 <br>
