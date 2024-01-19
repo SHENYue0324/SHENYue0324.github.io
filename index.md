@@ -28,8 +28,8 @@ I'd be delighted to connect if you're interested in collaborating or discussing 
 
 ## Research Interests
 
-- Text analysis and NLP in accounting
 - ESG auditing and greenwashing
+- Text analysis and NLP in accounting
 - Corporate governance
 - I'm open to exploring other accounting issues
 <br>
