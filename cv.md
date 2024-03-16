@@ -13,6 +13,6 @@ Latest Update: 2023.3.17<br>
 
 ---
 ## Community Services
-- **Sep 2022 - Current** HKU Business School Postgraduate Association (HKUBSPA)
+- HKU Business School Postgraduate Association (HKUBSPA)
 <br>
 
