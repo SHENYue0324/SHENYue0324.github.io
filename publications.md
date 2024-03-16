@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Publications and Research
 ---
 
 Latest Update: 24th Nov 2023
@@ -14,16 +14,16 @@ Latest Update: 24th Nov 2023
 
 ---
 
-## Working Manuscript
+## PhD Girls Seminar
 
-- Biodiversity Performance and Operation Risk: Evidence from Real Estate Industry in China<br>*Supervisor: Prof. Carlos NORONHA (UM) and Dr. Ruopiao ZHANG (MUST)*
-- Coming soon... 🚀
+- I am coorganizing a PhD Girls Seminar with the other three girls. Following the university's PhD course syllabus, we read and share papers each week. And then we do some brainstorming to come up with new ideas.
+- Coming soon... 
 
   <br>
 
 ---
 
-## Coursework Research Project
+## Projects and Replication
 
 - **Social Media’s Sentiment and Stock Return** *- Group Coursework of “MFIN7036 Text Analytics and NLP” at HKU*
   - *Github Blog #1 [How to Install Chromedriver in macOS](https://buehlmaier.github.io/MFIN7036-student-blog-2023-02/how-to-install-chromedriver-in-macos-by-group-nlp-intelligence.html)*
