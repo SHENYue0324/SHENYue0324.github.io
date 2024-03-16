@@ -5,11 +5,10 @@ title: CV
 ---
 
 Latest Update: 2023.3.17
-
-<font color='DarkViolet'>I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.</font>
+[Shelly Shen's CV](https://1drv.ms/w/s!AorxkIFLsOaW_UA5nbInRZQilSNL?e=ZNFOmb)
 <br>
 
-[Shelly Shen's CV](https://1drv.ms/w/s!AorxkIFLsOaW_UA5nbInRZQilSNL?e=CWOH1U)
+<font color='DarkViolet'>I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.</font>
 <br>
 
 ## Community Services
