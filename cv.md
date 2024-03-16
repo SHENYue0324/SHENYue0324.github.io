@@ -11,6 +11,7 @@ Latest Update: 2023.3.17<br>
 <font color='DarkViolet'>I am currently seeking PhD opportunities beginning in Fall 2024. If you have any information or leads, please don't hesitate to get in touch. THX.</font>
 <br>
 
+---
 ## Community Services
 - **Sep 2022 - Current** HKU Business School Postgraduate Association (HKUBSPA)
 <br>
