@@ -4,7 +4,7 @@ permalink: /cv/index.html
 title: CV
 ---
 
-Latest Update: 2023.3.17
+Latest Update: 2023.3.17<br>
 [Shelly Shen's CV](https://1drv.ms/w/s!AorxkIFLsOaW_UA5nbInRZQilSNL?e=ZNFOmb)
 <br>
 
