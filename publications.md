@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications and Research
 ---
 
-Latest Update: 24th Nov 2023
+Latest Update: 2023.3.17
 
 ## Journal Paper
 
