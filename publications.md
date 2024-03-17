@@ -16,7 +16,7 @@ Latest Update: 2023.3.17
 
 ## PhD Girls Seminar
 
-- I am coorganizing a PhD Girls Seminar with the other three girls. Following the university's PhD course syllabus, we read and share papers each week. And then we do some brainstorming to come up with new ideas.
+- I am co-organizing a PhD Girls Seminar with the other three girls. Following the university's PhD course syllabus, we read and share papers each week. And then we do some brainstorming to come up with new ideas.
 - Coming soon... 
 
   <br>
