@@ -47,11 +47,9 @@ As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiv
 
 ## Cooperation & Networking
 
-I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - ***yueshen@connect.hku.hk***
+I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - ***yueshen@connect.hku.hk***. And please feel free to contact me by WeChat.
 
 <br>
-
-And please feel free to contact me by WeChat.
 
 <div class="third">
 <img src="/images/wechat.yueshen.jpg">
