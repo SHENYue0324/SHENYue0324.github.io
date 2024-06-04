@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://shenyue0324.github.io/images/zhiyezhao2024.jpg.jpg" class="floatpic" width="360" height="480">
+<img src="https://shenyue0324.github.io/images/yueshen.um.graduate.jpg" class="floatpic" width="360" height="480">
 
 <br>
 
