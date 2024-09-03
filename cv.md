@@ -15,4 +15,8 @@ Latest Update: 2023.3.17<br>
 ## Community Services
 - [HKU Business School Postgraduate Association (HKUBSPA)](https://hkubspa.fbe.hku.hk/)
 <br>
+<div class="third">
+<img src="/images/HKUBSPA_wechat.jpg">
+</div>
+<br>
 
