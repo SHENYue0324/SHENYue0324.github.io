@@ -40,8 +40,8 @@ links:
     url: /
   - title: CV
     url: /cv/
-  - title: Publications and Research
-    url: /publications/
+  #- title: Publications and Research
+    # url: /publications/
   # - title: Teams
     # url: /teams/
   - title: Hobbies
