@@ -14,8 +14,6 @@ Here is **Shen Shelly Yue (沈悦)**. I am pursuing my doctoral degree in <font 
 
 During my undergraduate studies at the <font color='DarkViolet'>University of Macau</font>, I started to learned Ball and Brown’s 1968 study in the Accounting Theory course, which piqued my interest in accounting research. 
 
-As a research assistant at UM, I delved into the <font color='DarkViolet'>biodiversity section of CSR</font>, further expanding my understanding of accounting research and leading me to consider naturalistic insights. At PKU, I collaborated on a project <font color='DarkViolet'>investigating the potential role of urbanization in carbon emissions in China</font> by employing the Spatial Durbin model. 
-
 <br>
 
 ---
