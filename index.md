@@ -21,6 +21,7 @@ During my undergraduate studies at the University of Macau, I started to learned
 - Master of Accounting, The University of Hong Kong
 - BSc. in Accounting, University of Macau
 <br>
+<br>
 
 ## Research Interests
 
