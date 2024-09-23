@@ -22,7 +22,6 @@ During my undergraduate studies at the University of Macau, I started to learned
 - BSc. in Accounting, University of Macau
 <br>
 
-
 ## Research Interests
 
 - ESG auditing and greenwashing
