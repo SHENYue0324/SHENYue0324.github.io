@@ -12,21 +12,23 @@ Here is **Shen Shelly Yue (沈悦)**. I am pursuing my doctoral degree in <font 
 
 <br>
 
-During my undergraduate studies at the <font color='DarkViolet'>University of Macau</font>, I started to learned Ball and Brown’s 1968 study in the Accounting Theory course, which piqued my interest in accounting research. 
+During my undergraduate studies at the University of Macau, I started to learned [Ball and Brown’s 1968 study](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203067024-3/empirical-evaluation-accounting-income-numbers-ray-ball-philip-brown) in the Accounting Theory course, which piqued my interest in accounting research. 
 
 <br>
 
----
+## Education Background
+
+- Master of Accounting, The University of Hong Kong
+- BSc. in Accounting, University of Macau
+<br>
+
 
 ## Research Interests
 
 - ESG auditing and greenwashing
-- Text analysis and NLP in accounting
-- Corporate governance
+- Disclosure
 - <font color='DarkViolet'>I'm open to exploring other accounting issues</font>
 <br>
-
----
 
 ## Data Skills
 
