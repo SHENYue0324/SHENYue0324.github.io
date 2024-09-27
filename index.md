@@ -25,7 +25,7 @@ During my undergraduate studies at the University of Macau, I started to learned
 
 ## Research Interests
 
-- ESG auditing and greenwashing
+- CSR, ESG, and Greenwashing
 - Corporate Disclosure
 - <font color='DarkViolet'>I'm open to exploring other accounting issues</font>
 <br>
