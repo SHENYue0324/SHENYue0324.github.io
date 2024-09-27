@@ -26,22 +26,10 @@ During my undergraduate studies at the University of Macau, I started to learned
 ## Research Interests
 
 - ESG auditing and greenwashing
-- Disclosure
+- Corporate Disclosure
 - <font color='DarkViolet'>I'm open to exploring other accounting issues</font>
 <br>
 
-## Data Skills
-
-- STATA
-  - I used STATA to <font color='DarkViolet'>replicate the 'Bank opacity' variable (Yue et al., 2022)</font>, during which I cleaned the data and applied <font color='DarkViolet'>fixed effect model</font>.
-- R
-  - Basic Regression, CART model, Random Forest model, etc.
-- Python
-  - I used Python to perform <font color='DarkViolet'>web scraping</font> (website: Reddit) and extract social media's <font color='DarkViolet'>sentiment index</font>.
-  - To complete the coding for biodiversity disclosure, I am currently debugging my code to give a rating after scraping the biodiversity section from ESG reports.
-<br>
-
----
 
 ## Cooperation & Networking
 
