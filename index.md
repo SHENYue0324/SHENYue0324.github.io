@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Here is **Shen Shelly Yue (沈悦)**. I am pursuing my doctoral degree in <font color='DarkViolet'>Accounting</font> at <font color='DarkViolet'>[The Chinese University of Hong Kong, Shenzhen](https://sme.cuhk.edu.cn/en/node/2908)</font>. 
+Here is **Shen Shelly Yue (沈悦)**. I am pursuing my doctoral degree in <font color='DarkViolet'>Accounting</font> at [<font color='DarkViolet'>The Chinese University of Hong Kong, Shenzhen</font>](https://sme.cuhk.edu.cn/en/node/2908). 
 
 <br>
 
