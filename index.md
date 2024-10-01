@@ -33,7 +33,7 @@ During my undergraduate studies at the University of Macau, I started to learned
 
 ## Cooperation & Networking
 
-<img src="https://shenyue0324.github.io/images/wechat.yueshen.jpg" class="floatpic" width="60%" height="30px" />
+<img src="https://shenyue0324.github.io/images/wechat.yueshen.jpg" class="floatpic" width="40%" height="30px" />
 
 <br>
 I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - ***yueshen@link.cuhk.edu.cn***. And please feel free to contact me by WeChat.
