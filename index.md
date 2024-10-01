@@ -36,7 +36,7 @@ During my undergraduate studies at the University of Macau, I started to learned
 <img src="https://shenyue0324.github.io/images/wechat.yueshen.jpg" class="floatpic" width="40%" height="30px" />
 
 <br>
-I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to reach out to me via email at - ***yueshen@link.cuhk.edu.cn***. And please feel free to contact me by WeChat.
+I'd be delighted to connect if you're interested in collaborating or discussing any aspect of my work. Please feel free to contact me via email at ***yueshen@link.cuhk.edu.cn***, or by WeChat.
 
 <br>
 
