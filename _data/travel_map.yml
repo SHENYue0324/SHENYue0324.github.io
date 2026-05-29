@@ -1,0 +1,51 @@
+- id: hong-kong
+  city: Hong Kong
+  date: "2023"
+  x: 76
+  y: 52
+  description: "Victoria Harbor, the Museum of Art, and city walks recorded through mobile phone photography."
+  photos:
+    - src: /images/hk.sea.sunny.jpg
+      alt: "Sunny sea view at Hong Kong Victoria Harbor"
+    - src: /images/hk.china.cake.jpg
+      alt: "Photo taken at the Hong Kong Museum of Art"
+    - src: /images/hk.central.ferris.wheel.jpg
+      alt: "Central ferris wheel in Hong Kong"
+
+- id: macau
+  city: Macau
+  date: "Undergraduate years"
+  x: 75.5
+  y: 53
+  description: "Campus memories from the University of Macau and quiet moments around the library."
+  photos:
+    - src: /images/um.library.jpg
+      alt: "Wu Yee Sun Library at the University of Macau"
+    - src: /images/moon.and.flower.at.um.jpg
+      alt: "Moon and flowers at the University of Macau"
+    - src: /images/yueshen.um.graduate.jpg
+      alt: "Graduation photo at the University of Macau"
+
+- id: shenzhen
+  city: Shenzhen
+  date: "2024 onward"
+  x: 75.6
+  y: 51.8
+  description: "A new doctoral chapter in the Greater Bay Area."
+  photos:
+    - src: /images/莲花山人生照片.jpg
+      alt: "Portrait at Lianhuashan in Shenzhen"
+    - src: /images/zhiyezhao2024.jpg
+      alt: "Professional portrait in 2024"
+
+- id: daqing
+  city: Daqing
+  date: "Home memories"
+  x: 78.5
+  y: 35
+  description: "Snow, flowers, and scenes from northern China."
+  photos:
+    - src: /images/daqing.snow.jpg
+      alt: "Snow in Daqing"
+    - src: /images/daqing.flower.jpg
+      alt: "Flowers in Daqing"
