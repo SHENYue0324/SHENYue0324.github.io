@@ -31,4 +31,9 @@ title: Hobbies
 <img src="/images/um.library.jpg">
 </div>
 <br> @ University of Macau | Wu Yee Sun Library
+<br>
+
+## Photo Map
+
+Explore my travel memories on the [Photo Map](/travel-map/), an interactive world map with dates and photos.
 
