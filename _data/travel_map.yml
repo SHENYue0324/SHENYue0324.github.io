@@ -1,51 +1,91 @@
+# One item is one city-level marker on the map.
+# Add many photos under the same city; each photo keeps its exact shooting place.
 - id: hong-kong
   city: Hong Kong
   date: "2023"
+  lat: 22.3193
+  lon: 114.1694
   x: 76
   y: 52
   description: "Victoria Harbor, the Museum of Art, and city walks recorded through mobile phone photography."
   photos:
     - src: /images/hk.sea.sunny.jpg
+      location: "Victoria Harbor"
+      date: "2023"
       alt: "Sunny sea view at Hong Kong Victoria Harbor"
+      note: "A sunny sea view from the harbor side."
     - src: /images/hk.china.cake.jpg
+      location: "Hong Kong Museum of Art"
+      date: "2023"
       alt: "Photo taken at the Hong Kong Museum of Art"
+      note: "An indoor detail from a museum visit."
     - src: /images/hk.central.ferris.wheel.jpg
+      location: "Central"
+      date: "2023"
       alt: "Central ferris wheel in Hong Kong"
+      note: "A city walk near the ferris wheel."
 
 - id: macau
   city: Macau
   date: "Undergraduate years"
+  lat: 22.1987
+  lon: 113.5439
   x: 75.5
   y: 53
   description: "Campus memories from the University of Macau and quiet moments around the library."
   photos:
     - src: /images/um.library.jpg
+      location: "University of Macau, Wu Yee Sun Library"
+      date: "Undergraduate years"
       alt: "Wu Yee Sun Library at the University of Macau"
+      note: "A quiet campus memory around the library."
     - src: /images/moon.and.flower.at.um.jpg
+      location: "University of Macau"
+      date: "Undergraduate years"
       alt: "Moon and flowers at the University of Macau"
+      note: "Moonlight and flowers on campus."
     - src: /images/yueshen.um.graduate.jpg
+      location: "University of Macau"
+      date: "Graduation"
       alt: "Graduation photo at the University of Macau"
+      note: "Graduation day at UM."
 
 - id: shenzhen
   city: Shenzhen
   date: "2024 onward"
+  lat: 22.5431
+  lon: 114.0579
   x: 75.6
   y: 51.8
   description: "A new doctoral chapter in the Greater Bay Area."
   photos:
     - src: /images/莲花山人生照片.jpg
+      location: "Lianhuashan Park"
+      date: "2024"
       alt: "Portrait at Lianhuashan in Shenzhen"
+      note: "A portrait from Lianhuashan Park."
     - src: /images/zhiyezhao2024.jpg
+      location: "Shenzhen"
+      date: "2024"
       alt: "Professional portrait in 2024"
+      note: "Professional portrait taken in Shenzhen."
 
 - id: daqing
   city: Daqing
   date: "Home memories"
+  lat: 46.5893
+  lon: 125.1038
   x: 78.5
   y: 35
   description: "Snow, flowers, and scenes from northern China."
   photos:
     - src: /images/daqing.snow.jpg
+      location: "Daqing"
+      date: "Winter"
       alt: "Snow in Daqing"
+      note: "Snow from home."
     - src: /images/daqing.flower.jpg
+      location: "Daqing"
+      date: "Spring"
       alt: "Flowers in Daqing"
+      note: "Flowers from home."
