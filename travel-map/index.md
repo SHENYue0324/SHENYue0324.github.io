@@ -5,24 +5,19 @@ title: Photo Map
 ---
 
 <style>
-/* Full-bleed page area for the enlarged map. */
+/* Keep the map inside the site's normal article column. */
 .travel-map-page {
-  width: 100vw;
+  width: 100%;
   margin-top: 1rem;
-  margin-left: calc(50% - 50vw);
 }
 
-/* Main map surface. The map owns the page and holds the projected world SVG plus custom photo UI. */
+/* Main map surface without a separate floating-card frame. */
 .travel-map-canvas {
   position: relative;
-  width: min(100vw, 1440px);
-  height: clamp(560px, calc(100vh - 8rem), 820px);
-  margin: 0 auto;
-  border: 1px solid #eadff3;
-  border-radius: 8px;
+  width: 100%;
+  height: clamp(480px, calc(100vh - 10rem), 680px);
   overflow: hidden;
   background: #fbf8ff;
-  box-shadow: 0 18px 45px rgba(67, 31, 95, 0.08);
 }
 
 /* D3-rendered world map base. */
@@ -158,8 +153,11 @@ title: Photo Map
 .travel-map-popover {
   position: absolute;
   top: 50%;
-  right: calc(100% + 1rem);
-  width: min(430px, calc(100vw - 2rem));
+  right: auto;
+  left: calc(100% + 1rem);
+  box-sizing: border-box;
+  width: 430px;
+  max-width: calc(100vw - 2rem);
   max-height: min(72vh, 680px);
   padding: 1rem;
   border: 1px solid #eadff3;
@@ -187,8 +185,8 @@ title: Photo Map
   content: "";
   position: absolute;
   top: 0;
-  right: -1rem;
   bottom: 0;
+  left: -1rem;
   width: 1rem;
 }
 
@@ -461,12 +459,9 @@ title: Photo Map
   }
 
   .travel-map-canvas {
-    width: 100vw;
+    width: 100%;
     height: calc(100vh - 6rem);
     min-height: 520px;
-    border-right: 0;
-    border-left: 0;
-    border-radius: 0;
   }
 
   .travel-map-popover {
@@ -526,7 +521,7 @@ title: Photo Map
         data-lon="{{ place.lon }}"
       >
         <button class="travel-map-marker" type="button" aria-label="{{ place.city }}" data-open-map-place="{{ place.id }}"></button>
-        <article class="travel-map-popover" aria-label="{{ place.city }} photos">
+        <div class="travel-map-popover" aria-label="{{ place.city }} photos">
           <h2>{{ place.city }}</h2>
           <div class="travel-map-city-meta">
             <span class="travel-map-date">{{ place.date }}</span>
@@ -560,7 +555,7 @@ title: Photo Map
               </section>
             {% endfor %}
           </div>
-        </article>
+        </div>
       </div>
     {% endfor %}
 
