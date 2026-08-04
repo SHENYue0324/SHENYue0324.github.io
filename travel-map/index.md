@@ -16,7 +16,7 @@ title: Photo Map
   position: relative;
   width: 100%;
   height: clamp(480px, calc(100vh - 10rem), 680px);
-  overflow: hidden;
+  overflow: visible;
   background: #fbf8ff;
 }
 
@@ -25,6 +25,7 @@ title: Photo Map
   position: absolute;
   inset: 0;
   z-index: 0;
+  overflow: hidden;
   background: linear-gradient(180deg, #fbf8ff 0%, #f3fbff 100%);
 }
 
