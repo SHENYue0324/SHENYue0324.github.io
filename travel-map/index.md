@@ -47,7 +47,7 @@ title: Photo Map
   z-index: 3;
   left: 1rem;
   bottom: 0.75rem;
-  color: rgba(77, 45, 101, 0.35);
+  color: rgba(117, 15, 109, 0.35);
   font-size: 0.8rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -70,7 +70,7 @@ title: Photo Map
   border: 1px solid #dec9ed;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.9);
-  color: #5c3a73;
+  color: #750f6d;
   cursor: pointer;
   font-size: 1rem;
   line-height: 1;
@@ -79,8 +79,8 @@ title: Photo Map
 
 .travel-map-zoom-controls button:hover,
 .travel-map-zoom-controls button:focus {
-  border-color: DarkViolet;
-  color: DarkViolet;
+  border-color: var(--cuhksz-purple, #750f6d);
+  color: var(--cuhksz-purple, #750f6d);
 }
 
 .travel-map-zoom-reset {
@@ -112,8 +112,8 @@ title: Photo Map
   padding: 0;
   border: 2px solid #fff;
   border-radius: 999px;
-  background: DarkViolet;
-  box-shadow: 0 0 0 7px rgba(148, 0, 211, 0.15), 0 8px 18px rgba(62, 20, 80, 0.24);
+  background: var(--cuhksz-purple, #750f6d);
+  box-shadow: 0 0 0 7px rgba(117, 15, 109, 0.18), 0 8px 18px rgba(62, 20, 80, 0.24);
   cursor: pointer;
   transition: transform 180ms ease, box-shadow 180ms ease, background 180ms ease;
 }
@@ -195,7 +195,7 @@ title: Photo Map
 .travel-map-popover h2,
 .travel-map-dialog h2 {
   margin: 0 0 0.35rem;
-  color: #3e2853;
+  color: #29252b;
   font-size: 1.25rem;
 }
 
@@ -209,7 +209,7 @@ title: Photo Map
 }
 
 .travel-map-date {
-  color: DarkViolet;
+  color: var(--cuhksz-purple, #750f6d);
   font-weight: 700;
 }
 
@@ -235,15 +235,15 @@ title: Photo Map
   border-radius: 999px;
   padding: 0.35rem 0.8rem;
   background: #fff;
-  color: #5c3a73;
+  color: #750f6d;
   cursor: pointer;
   font-size: 0.88rem;
 }
 
 .travel-map-open:hover,
 .travel-map-open:focus {
-  border-color: DarkViolet;
-  color: DarkViolet;
+  border-color: var(--cuhksz-purple, #750f6d);
+  color: var(--cuhksz-purple, #750f6d);
 }
 
 /* Scrollable photo list for cities with many images. */
@@ -294,13 +294,13 @@ title: Photo Map
 .travel-map-photo h3,
 .travel-map-dialog-photo h3 {
   margin: 0 0 0.2rem;
-  color: #3e2853;
+  color: #29252b;
   font-size: 0.98rem;
   line-height: 1.3;
 }
 
 .travel-map-photo-meta {
-  color: DarkViolet;
+  color: var(--cuhksz-purple, #750f6d);
   font-size: 0.84rem;
   font-weight: 700;
   margin-bottom: 0.3rem;
@@ -362,7 +362,7 @@ title: Photo Map
   width: 2rem;
   height: 2rem;
   background: #fff;
-  color: #5c3a73;
+  color: #750f6d;
   cursor: pointer;
   font-size: 1.15rem;
   line-height: 1;
@@ -372,8 +372,8 @@ title: Photo Map
 .travel-map-close:focus,
 .travel-map-lightbox-close:hover,
 .travel-map-lightbox-close:focus {
-  border-color: DarkViolet;
-  color: DarkViolet;
+  border-color: var(--cuhksz-purple, #750f6d);
+  color: var(--cuhksz-purple, #750f6d);
 }
 
 /* Expanded photo grid inside the dialog. */
@@ -752,7 +752,7 @@ title: Photo Map
           .datum(coastlines)
           .attr('d', path)
           .attr('fill', 'none')
-          .attr('stroke', '#6f4a86')
+          .attr('stroke', '#750f6d')
           .attr('stroke-width', 1.05)
           .attr('stroke-linejoin', 'round')
           .attr('stroke-linecap', 'round')
@@ -772,7 +772,7 @@ title: Photo Map
           .attr('x', width - 12)
           .attr('y', height - 10)
           .attr('text-anchor', 'end')
-          .attr('fill', 'rgba(77, 45, 101, 0.45)')
+          .attr('fill', 'rgba(117, 15, 109, 0.45)')
           .attr('font-size', 10)
           .text('Natural Earth / world-atlas');
 
