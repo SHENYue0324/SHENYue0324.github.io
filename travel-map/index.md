@@ -196,7 +196,7 @@ title: Photo Map
 .travel-map-dialog h2 {
   margin: 0 0 0.35rem;
   color: #29252b;
-  font-size: 1.25rem;
+  font-size: calc(1rem + 2px);
 }
 
 /* City-level date and photo count. */
@@ -777,7 +777,7 @@ title: Photo Map
           .text('Natural Earth / world-atlas');
 
         mapZoom = d3.zoom()
-          .scaleExtent([1, 7])
+          .scaleExtent([1, 48])
           .translateExtent([[0, 0], [width, height]])
           .extent([[0, 0], [width, height]])
           .on('zoom', function (event) {
@@ -870,13 +870,13 @@ title: Photo Map
   // Manual zoom controls mirror mouse-wheel and trackpad zoom.
   if (zoomInControl) {
     zoomInControl.addEventListener('click', function () {
-      zoomMapBy(1.35);
+      zoomMapBy(1.6);
     });
   }
 
   if (zoomOutControl) {
     zoomOutControl.addEventListener('click', function () {
-      zoomMapBy(1 / 1.35);
+      zoomMapBy(1 / 1.6);
     });
   }
 
