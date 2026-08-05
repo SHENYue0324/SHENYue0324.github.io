@@ -8,7 +8,7 @@ Latest Update: 2023.3.17<br>
 [Shelly Shen's CV](https://drive.google.com/file/d/1xd8KhmPKpr7MUEI6jMeccFvH6WxnCDND/view?usp=drive_link)
 <br>
 
-<font color='DarkViolet'>I am pursuing my doctoral study beginning in Fall 2024. If you have any intentions of cooperation, please don't hesitate to get in touch with me. THX.</font>
+<p class="academic-note">I began my doctoral studies in Fall 2024 and welcome opportunities for research collaboration. Please feel free to contact me.</p>
 <br>
 
 ---

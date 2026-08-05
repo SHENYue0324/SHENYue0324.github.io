@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Yue Shen
+# Short Bio
 
 I am **Yue (Shelly) Shen (沈悦)**, a Ph.D. student in Accounting at [The Chinese University of Hong Kong, Shenzhen](https://sme.cuhk.edu.cn/en/node/2908).
 
